@@ -1,0 +1,6 @@
+.animation-container{
+    transform: translateX(0) translateY(0);
+}
+.animation-container{
+    border: 3px solid black   
+}
